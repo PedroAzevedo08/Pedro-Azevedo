@@ -19,7 +19,7 @@ I'm a **CEFET-MG** student of computing!
 
 ## 🔥 Um pouco do meu estilo
 <img src="[https://media.tenor.com/znL8Km4iLz0AAAAC/ichigo-bleach.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt4NWRseGZzZGlyNHVlNGN4bThtMXhuMzZuODJsbDl5cW5uaDZ3MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/tdqdc71dYWHyaU4E1f/giphy.gif)" width="500">
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+(https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+!(https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+!(https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+!(https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
