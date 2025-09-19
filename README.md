@@ -18,7 +18,8 @@ I'm a **CEFET-MG** student of computing!
 ---
 
 ## 🔥 Um pouco do meu estilo
-![Gif carro](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExamt4NkR6eGZzZGVjNWFjNGhmMThxMWhuZDJ0JSbd15cW5uaD23MSz1cD12MW9naWZxX3NlYXJjAC2JdDin/tdqdc71dVMHyauU4E1f/giphy.gif)
+![carro](https://media.giphy.com/media/tdqdc71dVMHyauU4E1f/giphy.gif)
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
