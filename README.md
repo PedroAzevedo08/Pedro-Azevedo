@@ -17,9 +17,9 @@ I'm a **CEFET-MG** student of computing!
 
 ---
 
-## 🔥 Um pouco do meu estilo![Gif De Carro](https://github.com/user-attachments/assets/2633d026-8fd7-4163-b0d7-1fc76bdbfaca)
+## A little of my style 🔥
 
-![Gif De Carro](./carro.gif)
+![Gif De Carro](https://github.com/user-attachments/assets/2633d026-8fd7-4163-b0d7-1fc76bdbfaca)
 
 
 
