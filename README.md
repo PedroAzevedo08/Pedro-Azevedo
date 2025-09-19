@@ -28,5 +28,6 @@ I'm a **CEFET-MG** student of computing!
 
 <!-- Streak + Geral (opcionais) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroAzevedo08&theme=tokyonight&date_format=%5B%22%25d.%20%25b%22%2C%20%22%25d.%20%25b%20%25Y%22%5D) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroAzevedo08&show_icons=true&theme=tokyonight&hide_border=true)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
