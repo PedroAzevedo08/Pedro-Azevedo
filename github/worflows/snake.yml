@@ -1,0 +1,35 @@
+name: GitHub Snake
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:   # permite rodar manualmente
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write   # ✅ necessário para permitir commits
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake files
+        uses: Platane/snk@v3
+        with:
+          github_user_name: BellkaDEV
+          outputs: |
+            dist/github-snake.svg
+            dist/github-snake-dark.svg?palette=github-dark
+            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      - name: Commit and Push Snake files
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add dist/*
+          git commit -m "Atualiza GitHub Snake" || echo "Nenhuma mudança para commit"
+          git push
