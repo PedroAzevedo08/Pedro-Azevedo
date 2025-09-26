@@ -17,16 +17,16 @@ I'm a **CEFET-MG** student of computing!
 ---
 
 ## A little of my style 🔥  
-![Gif De Carro](https://github.com/user-attachments/assets/2633d026-8fd7-4163-b0d7-1fc76bdbfaca) ![Gif De Carro](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NTJhYW9jM2Y5a3c1a21ja2k0NGU3enFyNmx4dGRyNTVlaTJpeXU2NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/md8IyVfwAr8xW/giphy.gif) 
+![Gif De Carro](https://github.com/user-attachments/assets/2633d026-8fd7-4163-b0d7-1fc76bdbfaca) 
+![Gif De Carro](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXBhZ3htbjB5aDR3dnc4Y3I2ZXl1ZzdzOHlscHM5eWxhanE5YXN1ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/o6S51npJYQM48/giphy.gif) 
 
 ---
 
 ## 📈 Meu quadro de contribuições  
 
-<!-- Activity graph (contribution calendar estilizado) -->
+
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroAzevedo08&theme=tokyo-night&hide_border=true&area=true)
 
-<!-- Streak + Geral (opcionais) -->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PedroAzevedo08&theme=tokyonight&date_format=%5B%22%25d.%20%25b%22%2C%20%22%25d.%20%25b%20%25Y%22%5D) ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PedroAzevedo08&show_icons=true&theme=tokyonight&hide_border=true)
 
 
