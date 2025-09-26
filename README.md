@@ -18,6 +18,10 @@ I'm a **CEFET-MG** student of computing!
 ## A little of my style 🔥  
 ![Gif De Carro](https://github.com/user-attachments/assets/2633d026-8fd7-4163-b0d7-1fc76bdbfaca) 
 ![Gif De Carro](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGYwaDVxMzNrcjg0ejliaDhzNng5bnlvNHN6cHF3OTN2N3oyazdmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9z1ij3PZG20QU/giphy.gif) 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/2633d026-8fd7-4163-b0d7-1fc76bdbfaca" width="53%" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGYwaDVxMzNrcjg0ejliaDhzNng5bnlvNHN6cHF3OTN2N3oyazdmdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9z1ij3PZG20QU/giphy.gif" width="45%" />
+</div>
 
 ---
 
