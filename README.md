@@ -10,7 +10,7 @@ I'm a **CEFET-MG** student of computing!
 
 ---
 
-## 🔗 Contato  
+## 🔗 Contact 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/seu-linkedin) [![Gmail](https://img.shields.io/badge/-Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:pedroliveirazevedo0908@gmail.com)  
 
 ---
