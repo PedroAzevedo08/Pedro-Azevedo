@@ -4,7 +4,7 @@
 I'm a **CEFET-MG** student of computing!  
 
 ---
-## 📊 Minhas Estatísticas no GitHub  
+## 📊 My GitHub Stats 
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroAzevedo08&layout=compact&theme=radical) ![Estatísticas](https://github-readme-stats.vercel.app/api?username=PedroAzevedo08&show_icons=true&theme=radical)  
 
 ---
@@ -23,7 +23,7 @@ I'm a **CEFET-MG** student of computing!
 
 ---
 
-## 📈 Meu quadro de contribuições  
+## 📈 My Board of Contribuitions  
 
 
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=PedroAzevedo08&theme=tokyo-night&hide_border=true&area=true)
